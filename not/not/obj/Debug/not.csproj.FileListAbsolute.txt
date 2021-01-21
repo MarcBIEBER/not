@@ -1,0 +1,10 @@
+E:\Projet c#\not\not\bin\Debug\not.exe.config
+E:\Projet c#\not\not\bin\Debug\not.exe
+E:\Projet c#\not\not\bin\Debug\not.pdb
+E:\Projet c#\not\not\obj\Debug\not.csprojAssemblyReference.cache
+E:\Projet c#\not\not\obj\Debug\not.Properties.Resources.resources
+E:\Projet c#\not\not\obj\Debug\not.csproj.GenerateResource.cache
+E:\Projet c#\not\not\obj\Debug\not.csproj.CoreCompileInputs.cache
+E:\Projet c#\not\not\obj\Debug\not.exe
+E:\Projet c#\not\not\obj\Debug\not.pdb
+E:\Projet c#\not\not\obj\Debug\not.mainform.resources
